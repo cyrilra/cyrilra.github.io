@@ -18,9 +18,10 @@ Back in 2020 when COVID-19 just hit, my computer science class for high school h
 ### The Project
 The idea my group and I pitched in for the HACC was to create a type of app that could aid the user in need of elderly/children assistance/care. My group and I had a team name which was called HyperText and we unfortunately didn't create a name for the app or rather a clever one. The website upon using it reads, "Family Resource Directory", and that would be the most befitting name for the app/website. The app itself is a questionaire that gathers the user's input through a series of questions and based off the questions, we refer to the users to departments located in Hawaii and provide their information. 
 
-<img width = 400px class="img-fluid" src="../img/hyper.png">  <img width = 400px class="img-fluid" src="../img/text.png">
+<img width = 500px class="img-fluid" src="../img/hyper.png">        <img width = 500px class="img-fluid" src="../img/text.png">
 
 ### Coding Languages
 We heavily used HTML and CSS and used some JavaScript. On the github, it roughly says about 0.7% was used (lol). 
 Here is the link to our github: https://github.com/HACC2020/HyperText
-\nHere is the link to the actual app: https://hacc2020.github.io/HyperText/index.html
+
+Here is the link to the actual app: https://hacc2020.github.io/HyperText/index.html
