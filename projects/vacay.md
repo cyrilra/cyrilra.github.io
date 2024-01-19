@@ -1,28 +1,15 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/judo.jpg
+title: "Judo"
+date: 2019 - Present
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Team-based
+summary: "I am part of the judo team for Waipahu High School"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img width = 500px class="img-fluid" src="../img/me.jpg">     <img width = 500px class="img-fluid" src="../img/throw.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+I first started judo around my sophomore year of high school and have fallen in love with the martial art. After my graduation, I became a coach for the team and whenever I have the time, I comeby and help. I am still a blue-belt and I am striving for a higher belt. I strive to be better so if I am ready for a belt promotion, I can feel as if I have properly earned it. 
