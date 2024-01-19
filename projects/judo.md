@@ -9,8 +9,7 @@ labels:
   - Team-based
 summary: "I am part of the judo team for Waipahu High School"
 ---
-<img width = 500px class="img-fluid" src="../img/throw.jpg"> 
-This was in my senior year and I was allowed to play for my team after a knee injury. 
+This was in my senior year and I was allowed to play for my team after a knee injury.<img width = 500px class="img-fluid" src="../img/throw.jpg"> 
 
 <img width = 300px class="img-fluid" src="../img/me.jpg"> practicing seoi-nage
 
