@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hacc2020.png
+image: img/hawaii.png
 title: "HyperText"
 date: 2020
 published: true
@@ -23,6 +23,6 @@ The idea my group and I pitched in for the HACC was to create a type of app that
 ### Coding Languages
 We heavily used HTML and CSS and used some JavaScript. On the github, it roughly says about 0.7% was used (lol). 
 
-Here is the link to our github: https://github.com/HACC2020/HyperText
+Here is the link to our <a href="https://github.com/HACC2020/HyperText">GitHub.</a>
 
-Here is the link to the actual app: https://hacc2020.github.io/HyperText/index.html
+Here is the link to the actual <a href="https://hacc2020.github.io/HyperText/index.html">app.</a>
