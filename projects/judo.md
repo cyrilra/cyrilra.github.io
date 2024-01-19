@@ -14,5 +14,5 @@ This was in my senior year and I was allowed to play for my team after a knee in
 
 <img width = 500px class="throw-border throw" src="../img/throw.jpg"> 
 
-<img width = 300px class="img-fluid" src="../img/me.jpg"> practicing seoi-nage
+<img width = 300px class="img-fluid" src="../img/me.jpg"> practicing ippon seoi-nage (my favorite throw)
 
