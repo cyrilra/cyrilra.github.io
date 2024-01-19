@@ -6,7 +6,10 @@ title: "HyperText"
 date: 2020
 published: true
 labels:
-  - Lisp
+  - HTML
+  - CSS
+  - JavaScript
+  - Team-based
   - GitHub
 summary: "I participated in the 2020 Hawaii Annual Code Challenge with 3 other high school members from Waipahu High School."
 ---
