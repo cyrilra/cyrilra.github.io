@@ -18,5 +18,5 @@ Me as a person also grew, both in terms of mindset and personality. Before judo,
 2023 was definitely a rough year, but hopefully 2024 I can continue to pursue it more!
 
 This was in my senior year and I was allowed to play for my team after a knee injury:
-<img class="throw-border throw" "src="../img/throw.jpg"> 
+<img class="throw-border throw" src="../img/throw.jpg"> 
 
