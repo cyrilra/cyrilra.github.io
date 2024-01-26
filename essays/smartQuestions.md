@@ -15,4 +15,4 @@ When asking a question, how often do you think what you are asking is smart or d
 
 ## Food For Thought
 
-Smart questions, or what is considered to be smart by Eric Raymond's essay, titled, ""
+Smart questions, or what is considered to be smart by Eric Raymond's essay, titled, "<a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a>," are questions, to summarize, that can't be found 
