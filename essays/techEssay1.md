@@ -11,13 +11,13 @@ labels:
   - Essays
 ---
 ## console.log("Hello World");
-
+<img width="200px" class="rounded float-start pe-4" src="../img/oldtimes.png">
 Software engineering has always been something that I wanted to dive into when I was roughly around 14 or 15. The idea of building apps like Facebook and YouTube, at the time, was fascinating and made me wonder what or how was this possible? Having access to YouTube back in 2011-2012 was a blessing for me and was when I first opened my eyes to softwares/apps. Actually because of YouTube, I explored a lot of other websites and what secrets and "treasures" they held, just to understand what websites do.
 
 As much as I don't want to admit it, I was or still am an "IPAD" kid and that in itself is really a shame. Although, because of that shameful nature, I slowly turned into a tech kid although I did still go outside and touch grass (trust me bro). I also became an avid gamer (oh god no) and as such, I became more adept with technology which also pushed me into liking coding. As technology got more fascinating and more proficient, it further deepened my desire to learn more about software development and coding in general. It gave me a motivation to look at coding in terms of a career. 
 
 ## return "Wow " + newExperiences;
-
+<img width="200px" class="rounded float-end pe-4" src="../img/coding.png">
 As I growed up and went through the highs and lows of high school, I focused on a computer science pathway until I graduated with some useful experiences. I learned Java, JavaScript, HTML, CSS, some SQL, and Python while in high school, but I can't say I was able to fully apply everything I learned into one huge project. Upon entering college, I was able to pick up C++ and improved my knowledge/skills for Java/JavaScript. All these new experiences were really fun and extremely knowledgable despite the stress it came with. I can't wait to explore and dive more into other coding languages UH Manoa has to offer in their courses. I want to find a language that I can really understand, almost as if it was bread and butter to me. Of course, that will take time and tons and tons of practice, but that is one goal of mine at UH Manoa. As much as being a jack of all trades is incredibly useful in the coding environment, being an ace of spades wouldn't hurt being the first step. 
 
 ## for (let age of ages) {skills++;}
