@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/judo.jpg
+image: img/judo2.png
 title: "Judo"
 date: 2019 - Present
 published: true
