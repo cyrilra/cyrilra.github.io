@@ -23,9 +23,14 @@ The idea my group and I pitched in for the HACC was to create a type of app that
 
 <img width = 500px class="img-fluid" src="../img/hyper.png">        <img width = 500px class="img-fluid" src="../img/text.png">
 
+### Reflection 
+The entire hackathon was definitely fun. From start to finish, the race was amazing, fun, but extremely streesful given the cirumstances a sophomore had. The many things I have learned from just this experience alone is what makes me want to come back every year, but unfortunately as time permits, I couldn't really participate as much as I wanted to. There are plenty more years to come and as such plenty more HACCs to come along with, though I am sure I can only do so much. One of the things I really did enjoy was pitching the idea and the matter of how you present yourself and the idea. It felt like I was at some job, pitching this cool idea my team and I came up with to our boss. It was super cool, yet very nerve-racking. Regardless, it did help me understand the importance of confidence and knowing what you have researched, and having prepared for expected questions. I look forward to future HACCs and seeing how far I can place among the other amazing talents we have here on island! 
+
 ### Coding Languages
-We heavily used HTML and CSS and used some JavaScript. On the github, it roughly says about 0.7% was used (lol). 
+The languages we used were HTML, CSS, and used some JavaScript. JavaScript wasn't used as much compared to our HTML and CSS as on the github, it roughly says about 0.7% was used (lol). 
 
 Here is the link to our <a href="https://github.com/HACC2020/HyperText">GitHub.</a>
 
 Here is the link to the actual <a href="https://hacc2020.github.io/HyperText/index.html">app.</a>
+
+Please don't judge too harshly (it was a lot of work for a group of 3 sophomores and a junior)!
