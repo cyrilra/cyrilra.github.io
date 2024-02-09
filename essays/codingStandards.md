@@ -10,7 +10,7 @@ labels:
   - Essay
   - Reflection
 ---
-## Do Coding Standards Help Learning a Programming Language
+## Do Coding Standards Help in Learning a Programming Language
 <img width="400px" class="rounded float-start pe-4" src="../img/codingStandards.jpg">
   I believe coding standards do help when it comes to learning a new programming language. Similar to learning any type of language, focusing on the smaller and rather precise details on a new language is extremely important. A strong example of this would be if you were to learn a language like Japanese, you would need to focus on learning the alphabet first, then the grammar, then how to conjunct sentences, and it slowly becomes more complex and more difficult as you continue to learn. Let's take JavaScript for an example, first you need to learn the "alphabet" (like its syntax), then the "grammar" (for and while loops, if-else statments, etc.), then creating and combining "sentences" (projects that utilizes what you've learned), and then you start to create bigger and complex structures whether it be your own website, analyzying data and data structures, or creating an amazing A.I. As such, no matter how trivial and small a standard may be, it's good practice and helps you build a habit for the future. 
   
