@@ -19,4 +19,6 @@ labels:
   
 >I would like to also add how much easier it's become to push and clone files with GitHub Desktop. I remember keeping GitBash up to just clone the file and keep constanty pushing and pulling origin master to the main branch and man was I so annoyed. Now, it's so much easier and faster so I'm glad they created a Desktop version. 
   
->Whether you acheive a green checkmark or not, I find it to be both useful and a little painful. Everytime I finish creating my code and before running it the console, I see that there isn't a checkmark, I know that I must traverse through my code to see what and where it went wrong. That aspect is incrediby useful for me, but if upon fixing it, there is still no checkmark, it starts to getting a little more annoying. However, its because of how annoying it comes, that it allows me to better look at my code 
+>Whether you acheive a green checkmark or not, I find it to be both useful and a little painful. Everytime I finish creating my code and before running it the console, I see that there isn't a checkmark, I know that I must traverse through my code to see what and where it went wrong. That aspect is incrediby useful for me, but if upon fixing it, there is still no checkmark, it starts to getting a little more annoying. However, its because of how annoying it becomes, that it allows me to better look at my code and get it done sooner.
+
+>Overall, IDE is pretty cool. I might use this as my main IDE for now because of its UI and how accessible our files are. 
