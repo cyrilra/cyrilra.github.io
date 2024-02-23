@@ -20,6 +20,6 @@ UI Framework in general is a great thing for programmers. Bootstrap in particula
 ### Comparing CSS and Bootstrap
 
 <img width="400px" class="rounded float-start pe-4" src="../img/bootstrapExample.png">
-<img width="400px" class="rounded float-end pe-4" src="../img/cssExample.png">
+<img width="400px" class="rounded float-center pe-4" src="../img/cssExample.png">
 
 These images were taken from this website, <a href="https://www.geeksforgeeks.org/difference-between-css-and-bootstrap/">W3 Schools</a>. An immediate difference is that Bootstrap comes with a preset font family whileas CSS is the basic Arial/Times New Roman font. Another big difference is how these websites are formated. CSS uses the center text align while Bootstrap just creates a preset of margins and padding within a container class. It also comes with its own predefined colors with their own names such as text-muted, text-primary, etc. It's really unique and does help simplify coding within the HTML file.
