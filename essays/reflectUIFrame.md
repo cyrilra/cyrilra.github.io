@@ -18,8 +18,7 @@ UI Framework is certainly a whole new thing because despite my experience with H
 UI Framework in general is a great thing for programmers. Bootstrap in particular really makes HTML and CSS so much more convenient because you don't know need to go into the CSS file and individually coding and playing with each class you create. Bootstrap with it's preset containers and other classes really helps not only give a good guide/template of the website, but it also makes the code easier to read and see where goes where exactly. For example, the navbar class itself is self-explanatory and provides a navigation bar for the coder to build off of. It's really useful and again, really convenient. It's definitely a really good skill/experience to have as knowing how to work with UI Frameworks can really elevate and speed up the process of creating websites under a timely manner. It's rather efficient and as long as you know your CSS, you can combine the two and really create an visually appealing and organized website. Looking forward to working and learning more of Bootstrap and/or anymore UI Frameworks in the future. 
 
 ### Comparing CSS and Bootstrap
-
-<img width="400px" class="rounded float-start pe-4" src="../img/bootstrapExample.png">
-<img width="400px" class="rounded float-center pe-4" src="../img/cssExample.png">
+Bootstrap <img width="400px" class="rounded float-start pe-4" src="../img/bootstrapExample.png">
+CSS <img width="400px" class="rounded float-center pe-4" src="../img/cssExample.png">
 
 These images were taken from this website, <a href="https://www.geeksforgeeks.org/difference-between-css-and-bootstrap/">W3 Schools</a>. An immediate difference is that Bootstrap comes with a preset font family whileas CSS is the basic Arial/Times New Roman font. Another big difference is how these websites are formated. CSS uses the center text align while Bootstrap just creates a preset of margins and padding within a container class. It also comes with its own predefined colors with their own names such as text-muted, text-primary, etc. It's really unique and does help simplify coding within the HTML file.
