@@ -11,7 +11,7 @@ labels:
   - Reflection
   - AI
 ---
-
+<img width="400px" class="rounded float-middle pe-4" src="../img/irobot.jpg"> 
 ### I. Introduction
 Artificial Intelligence, or better known as AI, has been playing quite a significant role in education, and especially within the software engineering industry. It has been slowly growing and becoming more prominent within both industries. It truly is a powerful tool and as such, it has become something that many fear will potentially take over certain aspects for the education and software engineering fields. It can accomplish easy and simple tasks in a matter of a mere seconds, however as the questions or requests become more complex and in-depth, then can we really see the cracks of this powerful tool. Yet, despite how deep our questions, or rather, our need for another perspective goes, we find a sense of reliability and oddly comfort with the usage of AI. We've started to become dependent on this tool and that seems concerning. Platforms like ChatGPt or Bing's Copilot, they have only grown in popularity, thus causing and creating a sort of safety net for students and programmers alike to fall back into whenever they get stuck or when they want a low effort yet "quality" product. Regardless, I do not fail to recognize the potential and power AI holds, but only with great power, comes great resposibility. 
 
