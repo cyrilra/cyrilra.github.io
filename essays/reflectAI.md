@@ -32,7 +32,7 @@ For the actual in-class WODs, at the start of the first 4 WODs, I was extremely 
 
   4. Essays
      
-I fail to imagine actually using AI to write essays. To write an essay yourself is surely time-consuming, but it is a rather simple task of answering the prompts and organizing the answers to those promts and any thoughts that follow it. Sure, creating an eye-catching or at least informative title for the essays may require an AI's assistance due to the lack of creativity or otherwise, using AI to write the bulk of the paper is, for a lack of better words, downright lazy and completely cheap. It creates boring and repetitive essays that lack any resemblance of a human writer. 
+I fail to imagine actually using AI to write essays. To write an essay yourself is surely time-consuming, but it is a rather simple task of answering the prompts and organizing the answers to those promts and any thoughts that follow it. Sure, creating an eye-catching or at least informative title for the essays may require an AI's assistance due to the lack of creativity or otherwise but, using AI to write the bulk of the paper is, for a lack of better words, downright lazy and completely cheap. It creates boring and repetitive essays that lack any resemblance of a human writer. Using it to better build a structure and organize the paper would be more beneficial. 
 
   5. Final project
     
@@ -58,7 +58,7 @@ I have never asked AI to provide a coding example. The examples that I ever need
    
  I have used AI to help explain code. For example, if there is a function that has a logic that I can not seem to understand, or if there is a whole new type of material that I have not learned yet such as subscribing and publishing data collections in MongoDB. It is effective at explaining the code and I have learned from it. This helped further my knowledge and skills as a programmer. 
 
-  11. Writing code
+   11. Writing code
       
 When it comes to asking AI to write code for me, I rather not let it. I prefer writing the code myself and understanding the logic behind it first, then run to an AI if some part of the logic fails or a function fails to do what I programmed it to do. It's a perfect tool for troubleshooting my own code and it will remain that way. To make an AI actually write code, you would not learn as a programmer and that in itself makes being an ICS major pointless. 
 
@@ -75,18 +75,19 @@ I often used AI for this aspect. AI is a perfect tool for providing organization
 I have used it for learning CSS animations with SVG files. I wanted to create a simple loading screen for the final project and I have successfully learned how to do simple animations with SVG files thanks to AI. 
 
 ### III. Impact on Learning and Understanding:
-
+The incorporation of AI in terms of learning has actually boosted and improved my skills as a programmer. It has aided me in my understanding of the materials within this semester as well. However with it, there were also cons to it. It has impacted my level of comprehension and skillset in a good way, however when it comes to problem solving, it may have been the opposite. As I have stated earlier in this essay, many students and programmers alike have used AI as a sort of safety net to fall back to and I have fallen into that category. I have used ChatGPT as a means of if I don't get it or if I can't solve it, then surely ChatGPT can. However, I have learned to slowly refrain from running to plan B as the semester progressed. Overall, the use of AI has only furthered my comprehension of software engineering concepts and has also boosted my skills. 
 
 ### IV. Practical Applications:
-
+In terms of practical applications within my experience of using AI, I have barely used it. I was introducted to AI like ChatGPT or Copilot as of 2022 and only started using it as of the start of my freshman college year. It was only used for classes like ICS141 and ICS241 in terms of explaining certain concepts as well as aiding me in learning other languages such Java or C++. As for real-world projects or collaborative activities, I have not touched anything regarding AI. However, AI in general for practical applications can be used for so many things such as organizing structures for essays, creating video ideas, and so much more.
 
 ### V. Challenges and Opportunities:
-
+A prominent challenge AI is sort of known for is how it generates, writes, and modifies code. It documents the logic behind each step, however when it is put to actual use, it fails. I have not really ran into this challenge until the in-class WODs, but otherwise I have not found any other challenge upon incorporating AI for this course. A few opportunities AI can potentially offer for software engineering education is helping people understand the concepts in simpler terms, how to structure and organize code, advice on documenting code and how to make it a habit, etc. There are tons of opportunities AI can offer if used the right way. 
 
 ### VI. Comparative Analysis:
-
+In terms of traditional teaching methods, AI-enhanced approaches seems lacking of engagement. AI-enhanced approaches may have knowledge retention, but it doesn't really engage the learner in any way possible. Traditional teaching methods can engage the learner through lectures and face-to-face in person classes and it also helps familiarize themselves with the person teaching. It is hard to really familiarize yourself with a robot when it comes to learning a new material as you just want the knowledge. However, with a real teacher, you can learn more about them through their teachings and recieve any advice or tips they have regarding anything. From this, you can better develop your practical skills such as talking to someone whose authority is higher than yours, or engaging in an actual discussion. 
 
 ### VII. Future Considerations:
-
+I believe AI will continue to play its huge role in software engineering education and I think it will only grow into a bigger role. It will present many already known or potential challenges such as ensuring that the code written isn't AI generated, or way it is used in coding, etc. Although with it, also comes potential advancements such as possibly paving a neww path forward with the usage of both AI and human coders or creating an efficient and effecitve AI that can analyze AI-generated code. AI will only ever continue to grow and unless Ultron is somehow created, I doubt there will be a constraint on using AI. 
 
 ### VIII. Conclusion:
+AI has been an unstoppable force in the education field and the software engineering field. It is a powerful tool to use, but it is controversial at best. Many view it as a cheapskate to coding and doing assignments, while others view it as a useful tool that can help bring an issue into a different perspective. It boils down to how the user uses it for their gain. Whether it is for an homework assignment for ICS, or for making a cheap budget list for groceries at Walmart. 
