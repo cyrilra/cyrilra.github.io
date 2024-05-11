@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/clubsearch_logo.png
+image: img/csLogoSquare.png
 title: "ClubSearch-Manoa"
 date: 2024
 published: true
