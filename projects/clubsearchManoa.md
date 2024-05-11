@@ -38,7 +38,7 @@ summary: "A web application development project that my team and I were assigned
   The programming languages, frameworks, libraries, and databases we implemented were of the following: HTML, CSS, JavaScript, Meteor, ReactJS, and MongoDB. We also utilized TestCafes to ensure our application's functionality was properly working for any user or admin. 
 
   Here is our documentation:
-  - [ClubSearch-Manoa Home Page[(https://clubsearch-manoa.github.io/)
+  - [ClubSearch-Manoa Home Page](https://clubsearch-manoa.github.io/)
 
   Here is our actual page so feel free to create an account and explore!
   - [ClubSearch-Manoa](https://clubsearch-manoa.xyz/)
