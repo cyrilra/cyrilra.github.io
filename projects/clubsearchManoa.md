@@ -24,8 +24,9 @@ summary: "A web application development project that my team and I were assigned
 
 <img width="400px" class="rounded float-start pe-4" src="../img/search.png">
 <img width="400px" class="rounded float-end pe-4" src="../img/edit.png">
+<img width="400px" class="rounded mx-auto d block pe-4" src="../img/add.png">
 
-  Some of the functionality we implemented was the actual search bar function for the clubs, and an edit club page for the club admins to freely edit the clubs they are assigned to. 
+  Some of the functionality we implemented was the actual search bar function for the clubs, an edit club page for the club admins to freely edit the clubs they are assigned to, and an add page where the super admins can add newly created clubs or renewed clubs. 
 
   For the month, we had three milestones which were basically our deadlines and each team member for each milestone had to be assigned to and complete two issues, which were basically our tasks we needed to complete by that milestone's deadline. A few issues I enjoyed doing were for when I was in charge of creating the actual search bar function and creating a loading screen into the website. I learned how to create an active search bar where as the user types any input, it actively changes the search results. I also chose to learn it in React because it was a framework we were using for the course and that made implementing this function much easier. However, the loading screen on the other hand was not so much of an important learning experience for the course, but rather a personal experience in learning how to animate SVG files through CSS. Although, it was also done with the assistance of ReactJS! 
 
